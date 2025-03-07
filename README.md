@@ -1,2 +1,3 @@
-# scidev-deployments
-IaC for HyP3 deployments managed by @SciDev
+# SciDev Deployments
+
+IaC for HyP3 deployments managed by @ASFHyP3/SciDev
